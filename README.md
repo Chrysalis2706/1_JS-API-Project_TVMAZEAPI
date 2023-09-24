@@ -5,6 +5,8 @@
 ### Overview
 This JavaScript mini-project, created by Parth, allows users to search for the name of a movie or TV show. Once a search query is entered, the application fetches data from the TV Maze API and displays poster images related to the search.
 
+![preview](./preview.png)
+
 ### How to Use
 > Open the project in your preferred web browser. <br>
 > In the search bar, enter the name of the movie or TV show you want to find posters for. <br>
